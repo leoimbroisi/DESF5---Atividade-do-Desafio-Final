@@ -57,8 +57,3 @@ Deletar cliente:
 
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 0be74562a72ae185ca28120a64f18f137c0c6dc1
